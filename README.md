@@ -1,2 +1,0 @@
-# EvenAndOddNumberChecker
-Created with CodeSandbox
