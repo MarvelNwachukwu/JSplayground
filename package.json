@@ -1,7 +1,7 @@
 {
-  "name": "vanilla",
+  "name": "vanilla-js-sandbox",
   "version": "1.0.0",
-  "description": "",
+  "description": "My Vanilla JS playground.",
   "main": "index.html",
   "scripts": {
     "start": "parcel index.html --open",
