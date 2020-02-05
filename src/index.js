@@ -77,3 +77,5 @@ async function asyncCall() {
 }
 
 asyncCall();
+
+// It's been fun learning Javascript
